@@ -1,8 +1,14 @@
 .venv/
+.vscode/
+DeepLenseSim/
 __pycache__/
+*/__pycache__/
 *.pyc
 *.pyo
 *.pyd
 .ipynb_checkpoints/
-resnet18_lensing.pth
-roc_curve.png
+.env
+.env.*
+*.pem
+*.key
+*.token
